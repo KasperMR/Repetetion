@@ -1,0 +1,8 @@
+Bank Account Management:
+Create a Bank Account class with methods to deposit, withdraw, and check balance. Implement inheritance to create different types of accounts like Savings Account and Current Account.
+
+Library Catalog System:
+Design a library catalog system with classes for books, authors, and library users. Implement methods for borrowing, returning, and searching books.
+
+Vehicle Rental System:
+Develop a vehicle rental system with classes for vehicles (car, bike, etc.), customers, and rentals. Implement methods for renting vehicles, returning them, and calculating bills.
